@@ -1,0 +1,5 @@
+{
+  "name": "VectorGen AI",
+  "description": "An AI-powered SVG vector graphic generator. Enter a prompt to generate scalable SVG illustrations using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
